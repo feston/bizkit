@@ -12,7 +12,7 @@ Un tour consiste en un lancer de deux dés dans le plateau. Il commence au momen
 
 La somme des dés est additionée et différents sens sont attachés à cette somme.
 
-## 7: bizkit
+## *7*: bizkit
 Lorsque la somme des dés fait 7, le dernier joueur à placer son pouce sur son front et à dire "bizkit!" boit une gorgée. 
 
 ## Double chiffre
@@ -20,26 +20,26 @@ Lors d'un double, le lanceur distribue le nombre de gorgées qu'annonce le chiff
 
 Très concrètement, il distribue deux gorgées sur un double 2, et quatre sur un double 4.
 
-## 9, 10, ou 11: le cadran
+## *9, 10, ou 11*: le cadran
 
 * Si la somme fait 9, le joueur précédant le lanceur boit une gorgée.
 * Le lanceur boit une gorgée si la somme fait 10.
 * Le joueur suivant le lanceur boit une gorgée sur le 11.
 
-## Double 6: nouvelle règle
+## *Double 6*: nouvelle règle
 En plus de distribuer 6 gorgées, le lanceur créée une nouvelle règle. Voir ci-après pour des suggestions.
 
-## 2+1: prison
+## *2+1*: la prison
 Le lanceur infortuné tombe en prison, et boira une gorgée à chaque fois qu'un des dés est 3.
 
 Il sort de prison s'il lance un autre 2+1, ou si un autre joueur tombe lui-même en prison.
 
 ## Traditions diverses
 
-#### 5+1
+### *5+1*
 Une gorgée est bue par les volontaires à la santé de la famille Pernod Ricard.
 
-#### Double 1
+### *Double 1*
 Il est de bon ton de se distribuer à soi-même la gorgée - sous peine de liguer les autres joueurs contre soi...
 
 # Dois-je rejouer ou passer ?
