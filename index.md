@@ -4,6 +4,20 @@ title: bizkit
 ---
 
 # Introduction
+Le bizkit est connu en France sous beaucoup de noms, et nombre de règles régionales et particularismes locaux s'appliquent. Cette page reprend les règles pratiquées à Lyon.
+
+Ce jeu se base sur un ensemble de règle relativement minimal et rapide à apprendre, pour peu qu'une personne plus expérimentée puisse diriger la partie et distribuer consignes et conseils pendant quelques tours.
+
+La meilleure façon d'apprendre, c'est de jouer.
+
+## Pré-requis
+
+* Deux dés à six faces
+* Un plateau de jeu
+* Des joueurs
+* De la bière
+
+![example]({{ site.baseurl }}/bizkit.jpg)
 
 ---
 
