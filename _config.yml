@@ -1,0 +1,9 @@
+# Site settings
+title: Bizkit
+description: > # this means to ignore newlines until "baseurl:"
+  Tu bois.
+url: http://bizkit.github.io
+baseurl: "" # the subpath of your site, e.g. /blog/
+
+# Build settings
+markdown: kramdown
