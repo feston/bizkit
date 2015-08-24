@@ -76,5 +76,28 @@ Si la tentative de pine est réussie, le piné en boit une petite. Si elle est d
 Comme nous l'avons mentioné ci-dessus, un *double 6* commande la création d'une règle par le joueur. Certaines règles classiques et recommandées sont répertoriées ci-dessous.
 
 ## Casino
+Le joueur à qui est distribué une ou plusieurs gorgées peut, en annonçant "Casino!", les rejouer aux dés. Il lance un dé avant le joueur qui lui a décerné les dites gorgées. Le perdant de ce duel boit le double des gorgées initialement distribuées.
+
+Note:
+
+* En cas d'égalité entre les deux dés, le nombre de gorgées final est doublé.
+ 
+## Duel
+Traditionellement sur un lancer de *4+2*, le lanceur peut, quand cette règle est active, demander à deux joueurs de se battre en duel - aux dés. Ils lancent chacun un dé en même temps, et le perdant boit le double de la différence entre les deux dés.
+
+Notes: 
+
+* En cas d'égalité entre les deux dés, le nombre de gorgées final est doublé.
+* La main droite et la main gauche peuvent être considérées comme deux joueurs à part. Ainsi, le lanceur peut donner les deux dés à un seul et même joueur... qui boira le double de la différence.
 
 ## Panama
+A chaque fois que la personne en prison doit boire (quand un 3 sort, donc), elle doit lancer un dé, dont le score détermine le nombre de gorgées à consommer.
+
+---
+
+# Précisions
+
+* Si un joueur n'est pas à table au moment du lancer, il ne peut pas faire l'objet d'une distribution de gorgées et ne participe pas au "bizkit" sur le 7.
+* Inversement, les joueurs sont priés d'attendre la fin d'un tour pour quitter la table, et de l'annoncer.
+* L'eau n'est tolérée à table qu'en fin de soirée. Rappelons que l'eau rouille et qu'il suffit d'un peu de sirop de caramel pour qu'elle ressemble à de la bière, ou de sirop d'anis pour n'y voir qu'un pastis.
+* Le volume des gorgées est à la discrétion des joueurs, sous réserve de bonne foi, et avec prise en compte du titrage de la boisson. 
