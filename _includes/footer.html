@@ -9,4 +9,18 @@
     </div>
   </div>
 
+<script>
+function bizkit() {
+  var diceOne = Math.floor(Math.random() * 6) + 1;
+  var diceTwo = Math.floor(Math.random() * 6) + 1;
+  console.log("Dé 1:", diceOne);
+  console.log("Dé 2:", diceTwo);
+  if (diceOne + diceTwo === 7) {
+    console.log("BIZKIT!");
+  } else {
+    return;
+  }
+} bizkit();
+</script>
+
 </footer>
