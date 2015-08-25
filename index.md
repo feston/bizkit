@@ -25,7 +25,7 @@ _La meilleure façon d'apprendre, c'est de jouer._
 * De la bière
 
 ![example]({{ site.baseurl }}/img/bizkit.jpg)
-*Figure 1: Une partie de bizkit*
+*Figure 1 : Une partie de bizkit*
 
 # Règles de base
 
@@ -35,7 +35,7 @@ passe.
 
 La somme des dés est additionée et différents sens sont attachés à cette somme.
 
-## *7*: bizkit
+## *7* : bizkit
 
 <span class="marginnote">
   <img src="img/bizkit.svg" style="width:50%">
@@ -58,7 +58,7 @@ chiffre doublé. <span class="sidenote">
   double 4.
 </span>
 
-## *9, 10, ou 11*: le cadran
+## *9, 10, ou 11* : le cadran
 
 Si la somme fait 9, le joueur précédant le lanceur boit une gorgée.
 
@@ -66,12 +66,12 @@ Le lanceur boit une gorgée si la somme fait 10.
 
 Le joueur suivant le lanceur boit une gorgée sur le 11.
 
-## *Double 6*: nouvelle règle
+## *Double 6* : nouvelle règle
 
 En plus de distribuer 6 gorgées, le lanceur crée une nouvelle règle. Voir
 ci-après pour des suggestions.
 
-## *2+1*: la prison
+## *2+1* : la prison
 
 Le lanceur infortuné tombe en prison, et boira une gorgée à chaque fois qu'un
 des dés est 3.
