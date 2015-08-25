@@ -7,7 +7,7 @@ title: bizkit
 
 ## Introduction
 
-Le bizkit est connu en France sous nombre de noms, et connaît de nombreuses règles
+Le bizkit est connu en France sous de nombreux noms, et connaît tout autant de règles
 régionales et particularismes locaux. Cette page ne reprend que les règles
 pratiquées à Lyon.
 
