@@ -7,11 +7,11 @@ title: bizkit
 
 ## Introduction
 
-Le bizkit est connu en France sous beaucoup de noms, et nombre de règles
-régionales et particularismes locaux s'appliquent. Cette page reprend les règles
+Le bizkit est connu en France sous nombre de noms, et connaît de nombreuses règles
+régionales et particularismes locaux. Cette page ne reprend que les règles
 pratiquées à Lyon.
 
-Ce jeu se base sur un ensemble de règles relativement minimal et rapide à
+Le *bizkit* se base sur un ensemble de règles relativement minimal et rapide à
 apprendre, pour peu qu'une personne plus expérimentée puisse diriger la partie
 et distribuer consignes et conseils pendant quelques tours.
 
@@ -21,10 +21,11 @@ _La meilleure façon d'apprendre, c'est de jouer._
 
 * Deux dés à six faces
 * Un plateau de jeu
-* Des joueurs
+* Des joueurs humains de type standard
 * De la bière
 
 ![example]({{ site.baseurl }}/img/bizkit.jpg)
+*Figure 1: Une partie de bizkit*
 
 # Règles de base
 
@@ -59,9 +60,11 @@ chiffre doublé. <span class="sidenote">
 
 ## *9, 10, ou 11*: le cadran
 
-* Si la somme fait 9, le joueur précédant le lanceur boit une gorgée.
-* Le lanceur boit une gorgée si la somme fait 10.
-* Le joueur suivant le lanceur boit une gorgée sur le 11.
+Si la somme fait 9, le joueur précédant le lanceur boit une gorgée.
+
+Le lanceur boit une gorgée si la somme fait 10.
+
+Le joueur suivant le lanceur boit une gorgée sur le 11.
 
 ## *Double 6*: nouvelle règle
 
@@ -73,18 +76,18 @@ ci-après pour des suggestions.
 Le lanceur infortuné tombe en prison, et boira une gorgée à chaque fois qu'un
 des dés est 3.
 
-Il sort de prison s'il lance un autre 2+1, ou si un autre joueur tombe lui-même
+Il sortira de prison s'il lance un 2+1, ou si un autre joueur tombe lui-même
 en prison.
 
 ## Traditions diverses
 
 ### *5+1*
 
-Une gorgée est bue par les volontaires à la santé de la famille _Pernod Ricard_.
+Une gorgée est bue par les volontaires à la santé de la famille Pernod Ricard.
 
 ### *Double 1*
 
-Il est de bon ton de se distribuer à soi-même la gorgée &mdash; sous peine de
+Il est de bon ton de distribuer à soi-même la gorgée &mdash; sous peine de
 liguer les autres joueurs contre soi...
 
 ## Dois-je rejouer ou passer ?
@@ -114,7 +117,7 @@ Les fautes de jeu sont punies d'une gorgée.
 
 Un joueur peut tenter de convaincre un autre joueur ou l'assemblée de la
 validité d'une de ses fantaisies - par exemple, donner les dés à une personne
-dont ce n'est pas le tour de joueur.
+dont ce n'est pas le tour de jouer.
 
 Si la tentative de pine est réussie, le piné en boit une petite. Si elle est
 découverte, la tentative de pine est punie d'une gorgée. Il est de bon ton pour
@@ -129,7 +132,7 @@ répertoriées ci-dessous.
 ## Casino
 
 Le joueur à qui est distribué une ou plusieurs gorgées peut, en annonçant
-"Casino!", les rejouer aux dés. Il lance un dé avant le joueur qui lui a décerné
+_&laquo;&nbsp;casino&nbsp;!&nbsp;&raquo;_ , les rejouer aux dés. Il lance un dé avant le joueur qui lui a décerné
 les dites gorgées. Le perdant<label class="margin-toggle sidenote-number"
 for="double"></label><input type="checkbox" id="sn-tufte-handout"
 class="margin-toggle"/> de ce duel <span class="sidenote">En cas d'égalité
