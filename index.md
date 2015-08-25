@@ -11,7 +11,7 @@ Le bizkit est connu en France sous beaucoup de noms, et nombre de règles
 régionales et particularismes locaux s'appliquent. Cette page reprend les règles
 pratiquées à Lyon.
 
-Ce jeu se base sur un ensemble de règle relativement minimal et rapide à
+Ce jeu se base sur un ensemble de règles relativement minimal et rapide à
 apprendre, pour peu qu'une personne plus expérimentée puisse diriger la partie
 et distribuer consignes et conseils pendant quelques tours.
 
@@ -65,7 +65,7 @@ chiffre doublé. <span class="sidenote">
 
 ## *Double 6*: nouvelle règle
 
-En plus de distribuer 6 gorgées, le lanceur créée une nouvelle règle. Voir
+En plus de distribuer 6 gorgées, le lanceur crée une nouvelle règle. Voir
 ci-après pour des suggestions.
 
 ## *2+1*: la prison
