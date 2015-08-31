@@ -49,14 +49,11 @@ front et à dire _&laquo;&nbsp;bizkit&nbsp;!&nbsp;&raquo;_ boit une gorgée.
 
 ## Double chiffre
 
-
 Lors d'un double<label class="margin-toggle sidenote-number"
-for="double"></label><input type="checkbox" id="sn-tufte-handout"
-class="margin-toggle"/>, le lanceur distribue le nombre de gorgées qu'annonce le
-chiffre doublé. <span class="sidenote">
-  Très concrètement, il distribue deux gorgées sur un double 2, et quatre sur un
-  double 4.
-</span>
+for="double"></label><input id="double" class="margin-toggle" type="checkbox"/>,
+<span class="sidenote">Très concrètement, il distribue deux gorgées sur un
+double 2, et quatre sur un double 4.</span>le lanceur distribue le nombre de
+gorgées qu'annonce le chiffre doublé.
 
 ## *9, 10, ou 11* : le cadran
 
@@ -132,9 +129,10 @@ répertoriées ci-dessous.
 ## Casino
 
 Le joueur à qui est distribué une ou plusieurs gorgées peut, en annonçant
-_&laquo;&nbsp;casino&nbsp;!&nbsp;&raquo;_ , les rejouer aux dés. Il lance un dé avant le joueur qui lui a décerné
-les dites gorgées. Le perdant<label class="margin-toggle sidenote-number"
-for="double"></label><input type="checkbox" id="sn-tufte-handout"
+_&laquo;&nbsp;casino&nbsp;!&nbsp;&raquo;_ , les rejouer aux dés. Il lance un dé
+avant le joueur qui lui a décerné les dites gorgées.
+Le perdant<label class="margin-toggle sidenote-number"
+for="escalade"></label><input id="escalade" type="checkbox"
 class="margin-toggle"/> de ce duel <span class="sidenote">En cas d'égalité
 entre les deux dés, le nombre de gorgées final est doublé.</span> boit le double
 des gorgées initialement distribuées.
@@ -144,15 +142,15 @@ des gorgées initialement distribuées.
 
 Traditionellement sur un lancer de *4+2*, le lanceur peut, quand cette règle est
 active, demander à deux joueurs<label class="margin-toggle sidenote-number"
-for="double"></label><input type="checkbox" id="sn-tufte-handout"
+for="schizo"></label><input id="schizo" type="checkbox"
 class="margin-toggle"/>
-<span class="sidenote">La main droite et la main gauche peuvent être considérées comme deux joueurs à
-  part. Ainsi, le lanceur peut donner les deux dés à un seul et même joueur...
-  qui boira le double de la différence.</span>
-de se battre en duel &mdash; aux dés. Ils
-lancent chacun un dé en même temps, et le perdant boit le double de la
+<span class="sidenote">La main droite et la main gauche peuvent être considérées
+comme deux joueurs à part. Ainsi, le lanceur peut donner les deux dés à un seul
+et même joueur... qui boira le double de la différence.</span>
+de se battre en duel &mdash; aux dés. Ils lancent chacun un dé en même temps,
+et le perdant boit le double de la
 différence entre les deux dés<label class="margin-toggle sidenote-number"
-for="double"></label><input type="checkbox" id="sn-tufte-handout"
+for="escalade2"></label><input id="escalade2" type="checkbox"
 class="margin-toggle"/>
 <span class="sidenote">En cas d'égalité entre les deux dés, le nombre de gorgées
 final est doublé.</span>.
