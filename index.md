@@ -50,7 +50,7 @@ front et à dire _&laquo;&nbsp;bizkit&nbsp;!&nbsp;&raquo;_ boit une gorgée.
 ## Double chiffre
 
 
-Lors d'un double <label class="margin-toggle sidenote-number"
+Lors d'un double<label class="margin-toggle sidenote-number"
 for="double"></label><input type="checkbox" id="sn-tufte-handout"
 class="margin-toggle"/>, le lanceur distribue le nombre de gorgées qu'annonce le
 chiffre doublé. <span class="sidenote">
@@ -111,7 +111,7 @@ d'une montre.
   jeu.
 * Dé cassé, dé fauté.
 
-Les fautes de jeu sont punies d'une gorgée. 
+Les fautes de jeu sont punies d'une gorgée.
 
 ## La tentative de pine
 
@@ -177,4 +177,4 @@ et qu'il suffit d'un peu de sirop de caramel pour qu'elle ressemble à de la
 bière, ou de sirop d'anis pour n'y voir qu'un pastis.
 
 Le volume des gorgées est à la discrétion des joueurs, sous réserve de bonne
-foi, et avec prise en compte du titrage de la boisson. 
+foi, et avec prise en compte du titrage de la boisson.
