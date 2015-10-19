@@ -158,8 +158,41 @@ final est doublé.</span>.
 
 ## Panama
 
-A chaque fois que la personne en _prison_ doit boire (quand un 3 sort, donc), elle
+Un joueur tombe en _Panama_ s'il est déjà en prison et joue un _2+1_.
+
+A chaque fois que la personne en _Panama_ doit boire (quand un _3+x_ sort, donc), elle
 doit lancer un dé, dont le score détermine le nombre de gorgées à consommer.
+
+## Auschwitz
+
+Idem que le _Panama_, mais en multipliant le nombre de gorgées par deux. Un joueur tombe
+ainsi à _Auschwitz_ après seulement être tombé en _Panama_ et, sur _3+x_, il boit _2x_.
+
+## Bizkit 2.0
+
+Lorsqu'un _bizkit_ est tiré (eg si la somme des dés fait _7_), le premier à annoncer
+_"bizkit!"_ ne boit aucune gorgée, le dernier en boit trois, et tous les autres une.
+
+## Fusillade
+
+Sur un _8_, le lanceur des dés désigne une personne (le _fusillé_). A tour de rôle,
+les joueurs lancent un dé.
+
+* Sur _1_, le fusil s'enraye - le lanceur boit son verre cul-sec
+* Sur _2, 3_ et _4_, le lanceur a tiré à côté - rien ne se passe
+* Sur _5_ et _6_, le fusillé boit trois gorgées
+
+Le fusillé ne lance pas le dé et attend que tous les joueurs aient tiré, avant de boire 
+toutes ses gorgées <label class="margin-toggle sidenote-number"
+for="tradi"></label><input id="tradi" type="checkbox"
+class="margin-toggle"/>.
+<span class="sidenote">Tradition: si le fusillé n'a que trop peu à boire, il lance un dé et
+s'auto-fusille</span>
+
+## Matrix
+
+Embellissement de la _fusillade_, _Matrix_ commande que si le fusillé n'est touché par personne,
+tout le monde boit trois gorgées.
 
 # Précisions
 
@@ -176,3 +209,5 @@ bière, ou de sirop d'anis pour n'y voir qu'un pastis.
 
 Le volume des gorgées est à la discrétion des joueurs, sous réserve de bonne
 foi, et avec prise en compte du titrage de la boisson.
+
+Il n'est pas possible d'annuler une règle établie précédemment, même sur un _double 6_.
