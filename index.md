@@ -161,7 +161,7 @@ final est doublé.</span>.
 Un joueur tombe en _Panama_ s'il est déjà en prison et joue un _2+1_.
 
 A chaque fois que la personne en _Panama_ doit boire (quand un _3+x_ sort, donc), elle
-doit lancer un dé, dont le score détermine le nombre de gorgées à consommer.
+boit _x_, _x_ étant la valeur de l'autre dé.
 
 ## Auschwitz
 
