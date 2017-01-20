@@ -76,6 +76,7 @@ des dés est 3.
 Il sortira de prison s'il lance un 2+1, ou si un autre joueur tombe lui-même
 en prison.
 
+
 ## Traditions diverses
 
 ### *5+1*
@@ -193,6 +194,12 @@ s'auto-fusille</span>
 
 Embellissement de la _fusillade_, _Matrix_ commande que si le fusillé n'est touché par personne,
 tout le monde boit trois gorgées.
+
+## Alcatraz
+
+Lorsque le joueur tombe en prison, il est condamné à boire autant de gorgées qu'il y a d'unités de minutes.
+
+Exemple : s'il est 21h3*9* lorsque le jouer lance un _2+1_, celui-ci écoppe de *9* gorgées additionnelles.
 
 # Précisions
 
