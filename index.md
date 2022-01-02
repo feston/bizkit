@@ -201,6 +201,12 @@ Lorsque le joueur tombe en prison, il est condamné à boire autant de gorgées 
 
 Exemple : s'il est 21h3*9* lorsque le jouer lance un _2+1_, celui-ci écoppe de *9* gorgées additionnelles.
 
+## Lamborghini
+
+Lors d'un 4+4, le joueur annonce un thème, par exemple "marque de voiture".  
+Le premier joueur à répondre peut donner autant de gorgées que de syllabes dans sa réponse (par exemple lam-bor-ghi-ni fait 4 gorgées).  
+Peut être décliné avec des thèmes plus subtils comme "qu'est ce qu'il y a dans mon verre ?" ou "chanson des One Direction".
+
 # Précisions
 
 Si un joueur n'est pas à table au moment du lancer, il ne peut pas faire
