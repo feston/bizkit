@@ -207,6 +207,10 @@ Lors d'un 4+4, le joueur annonce un thème, par exemple "marque de voiture".
 Le premier joueur à répondre peut donner autant de gorgées que de syllabes dans sa réponse (par exemple lam-bor-ghi-ni fait 4 gorgées).  
 Peut être décliné avec des thèmes plus subtils comme "qu'est ce qu'il y a dans mon verre ?" ou "chanson des One Direction".
 
+## Le souffleur
+
+Un joueur est désigné souffleur lorsqu'il tire 3+5. Il pourra dorénavant utiliser son pouvoir au moment du lancé de dés d'un camarade. En échange d'une gorgée dans le verre de ce dernier, il pourra choisir (au préalable) la valeur d'un des deux dés.
+
 # Précisions
 
 Si un joueur n'est pas à table au moment du lancer, il ne peut pas faire
