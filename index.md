@@ -211,6 +211,11 @@ Peut être décliné avec des thèmes plus subtils comme "qu'est ce qu'il y a da
 
 Un joueur est désigné souffleur lorsqu'il tire 3+5. Il pourra dorénavant utiliser son pouvoir au moment du lancé de dés d'un camarade. En échange d'une gorgée dans le verre de ce dernier, il pourra choisir (au préalable) la valeur d'un des deux dés.
 
+## Les chiffres ne sont pas bons Kevin
+
+Un 1+3 déclenche cette règle. A tour de rôle, chaque joueur choisi un nombre entre 1 et 6. Une fois les mises faites, le joueur lance un dé. Les joueurs ayant misé le nombre qui est tombé ont le droit de distribuer le double de ce nombre en gorgées. Les autres boivent leurs mises.  
+_Notons que les probabilités ne sont pas nécessairement en faveur de cette règle, mais que les bons joueurs ne s'arrêterons pas à ce genre de détail._
+
 # Précisions
 
 Si un joueur n'est pas à table au moment du lancer, il ne peut pas faire
